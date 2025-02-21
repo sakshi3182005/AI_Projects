@@ -17,3 +17,4 @@ model.compile(
 )
 
 #Model Summary
+model.summary()
